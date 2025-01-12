@@ -44,16 +44,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-one-paper-has-been-accepted-to-emnlp-2023-industry-track",
+          title: 'One paper has been accepted to EMNLP 2023 Industry Track.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-has-been-accepted-to-emnlp-2024-findings",
+          title: 'One paper has been accepted to EMNLP 2024 Findings.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-one-paper-has-been-accepted-to-emnlp-2024-demo",
+          title: 'One paper has been accepted to EMNLP 2024 Demo.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
