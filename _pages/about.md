@@ -3,8 +3,6 @@ layout: about
 title: Home
 permalink: /
 subtitle: M.Sc. at Technical University of Munich
-nav: true
-nav_order: 1
 
 profile:
   align: right
