@@ -19,3 +19,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a master student at Technical University of Munich (TUM). My research focuses on the reasoning abilities and uncertainty quantification of multimodal LLMs.
+
+E-Mail: haowei.zhang123@gmail.com
