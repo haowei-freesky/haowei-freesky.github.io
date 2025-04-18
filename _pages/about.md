@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a master student at Technical University of Munich (TUM). My research focuses on the reasoning abilities and uncertainty quantification of multimodal LLMs.
+I am a master student at Technical University of Munich (TUM). My research focuses on the reasoning and generation abilities of (multimodal) LLMs.
 
-Currently, I am looking for a PhD position :)
+Currently, I am looking for a PhD position :) You can find my CV [here](haowei-freesky.github.io/CV/CV_Haowei.pdf).
 
 E-Mail: haowei.zhang123@gmail.com
