@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a master student at Technical University of Munich (TUM). My research focuses on the reasoning and generation abilities of (multimodal) LLMs.
 
-Currently, I am looking for a PhD position :) You can find my CV [here](haowei-freesky.github.io/CV/CV_Haowei.pdf).
+Currently, I am looking for a PhD position :) You can find my CV [here](CV/CV_Haowei.pdf).
 
 E-Mail: haowei.zhang123@gmail.com
