@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: M.Sc. at Technical University of Munich
+subtitle: MSc. at Technical University of Munich
 
 profile:
   align: right
