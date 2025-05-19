@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a master student at Technical University of Munich (TUM). My research focuses on the reasoning and generation abilities of (multimodal) LLMs, and LLM agent applications.
 
-Currently, I am looking for a PhD position :) You can find my CV [here](CV/CV_Haowei.pdf).
+Currently, I am looking for a PhD position :) You can find my CV [here](CV/CV_Haowei_new.pdf).
 
 E-Mail: haowei.zhang123@gmail.com
