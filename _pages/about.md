@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: MSc. at Technical University of Munich
+subtitle: Ph.D. student @ FudanNLP
 
 profile:
   align: right
@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a master student at Technical University of Munich (TUM). My research focuses on the reasoning and generation abilities of (multimodal) LLMs, and LLM agent applications.
-
-Currently, I am looking for a PhD position :) You can find my CV [here](CV/CV_Haowei_new.pdf).
+I am a Ph.D. student at FudanNLP, supvervised by Prof. Xipeng Qiu and Jinlan Fu. My research focuses on efficient multimodal reasoning and LLM agents. You can find my CV [here](CV/CV_Haowei_Zhang.pdf).
 
 E-Mail: haowei.zhang123@gmail.com
