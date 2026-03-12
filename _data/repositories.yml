@@ -4,5 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - haowei-freesky/HERMES
   - haowei-freesky/Visual-Question-Decomposition
+  - yale-nlp/MMVU
   - yale-nlp/LLM-T2T
